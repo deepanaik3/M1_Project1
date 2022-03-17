@@ -1,4 +1,4 @@
-# certificates
+# Certificates
  * Sololearning C certificate
  * NDG Linux certificate
  * Simplilear git basics certificate
